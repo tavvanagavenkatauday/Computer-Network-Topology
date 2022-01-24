@@ -1,1 +1,2 @@
 # Computer-Network-Topology
+consider the topology where h1, h2 and h3 represent hosts and s1 and s2 represent switches. all the links have 10mbps of bandwidth and 100ms of delay. implement the topology in mininet. also save the layer-2 script for the same. create two tcp sockets between h1-h2 and h2-h3. you have to write a program which executes in h2 and aggregates these two sockets. that means, whatever h1 sends to h2, that will be also forwarded to h3. test the program and show the output to the instructor.
